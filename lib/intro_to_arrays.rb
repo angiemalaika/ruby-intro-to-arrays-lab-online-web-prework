@@ -12,7 +12,7 @@ def first_element(array)
 end 
 
 def third_element(array)
-  array = [1,"Welcome to New York",3,4,5,6]
+  array = [1,"Welcome to New York","Style",4,5,6]
   array[3]
 end 
 
