@@ -31,7 +31,7 @@ def last_element_with_array_methods(array)
   array.last 
 end 
 
-def length_of_array
+def length_of_array(array)
   array = ["Thailand","Welcome to New York",3,4,5,"Out of The Woods","Myanmar"]
   array.length 
 end 
