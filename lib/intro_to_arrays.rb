@@ -22,7 +22,7 @@ def last_element(array)
 end 
 
 def first_element_with_array_methods(array)
-  array = [1,"Welcome to New York",3,4,5,"Out of The Woods"]
+  array = ["Thailand","Welcome to New York",3,4,5,"Out of The Woods"]
   array.first 
 end 
 
